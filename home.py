@@ -10,7 +10,8 @@ classifier = load_model(r'C:/Users/Muthuvel/OneDrive - Ecole IPSSI/M2/Intelligen
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise']
 
 
-st.title("Emotion Detection App")
+st.title("Emotion Detection App ")
+st.title("prédection par video")
 
 # Initialize the label variable
 label = "No Faces"  # valueur par défaut
