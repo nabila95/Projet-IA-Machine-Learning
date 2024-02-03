@@ -14,7 +14,7 @@ L'application offre également la possibilité de détecter les émotions en tem
 
 
 
-# Projet de Détection des Émotions
+#### Projet de Détection des Émotions
 
 Ce projet utilise un modèle CNN (réseau de neurones convolutifs) conçu avec Keras et utilise OpenCV pour le traitement d'images en temps réel.
 
