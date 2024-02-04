@@ -6,6 +6,10 @@ Ce projet est une application de détection d'émotion qui utilise un modèle de
 ## Modèle CNN
 Le modèle CNN a été entraîné pour reconnaître diverses émotions en utilisant un large ensemble de données d'images faciales. Le modèle identifie les émotions suivantes : colère, dégoût, peur, bonheur, neutralité, tristesse et surprise.
 
+![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/5e82c06f-ab2a-46d4-8ca4-bed60f0a8748)
+
+
+
 ## Utilisation d'OpenCV
 OpenCV est utilisé pour le traitement d'image préalable, y compris la conversion des images en niveaux de gris et la détection des visages avant de les passer au modèle de classification des émotions.
 
