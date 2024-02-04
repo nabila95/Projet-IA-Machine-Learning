@@ -5,14 +5,12 @@ Ce projet est une application de détection d'émotion qui utilise un modèle de
 
 ### Webapp 
 
+#### framework : 
+
 ![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/423c00eb-f463-4fc1-89cc-880016bef62f)
 
 
-
-#### framework : 
-
-
-### bibliothèques : 
+#### bibliothèques : 
 
 |      numpy      |     opencv      |      keras      |   tensorflow  |
 | --------------- | --------------- | --------------- |---------------
