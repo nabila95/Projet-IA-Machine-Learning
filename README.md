@@ -3,6 +3,18 @@
 ## Description
 Ce projet est une application de détection d'émotion qui utilise un modèle de réseau de neurones convolutionnels (CNN) construit avec Keras, une API de réseaux de neurones de haut niveau écrite en Python et capable de s'exécuter sur TensorFlow. L'application analyse les images fournies par l'utilisateur et détecte les émotions affichées par les personnes sur les photos, avec un niveau de précision indiqué.
 
+[User] --(Upload Image/Interact)--> [Streamlit UI]
+  |
+  |---[Image Upload]--> [Server/Backend] --(Image Processing)--> [OpenCV & Numpy]
+  |       |
+  |       |---(Processed Image)--> [Machine Learning Model with Keras]
+  |                   |
+  |                   |---(Analysis/Results)--> [Data Visualization in Tableau]
+  |
+  |---[View Tableau Dashboard]--> [Embedded Tableau in Streamlit UI]
+
+
+
 ## Modèle CNN
 Le modèle CNN a été entraîné pour reconnaître diverses émotions en utilisant un large ensemble de données d'images faciales. Le modèle identifie les émotions suivantes : colère, dégoût, peur, bonheur, neutralité, tristesse et surprise.
 
