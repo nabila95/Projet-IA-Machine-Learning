@@ -5,6 +5,10 @@ Ce projet est une application de détection d'émotion qui utilise un modèle de
 
 ### Webapp 
 
+![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/423c00eb-f463-4fc1-89cc-880016bef62f)
+
+
+
 #### framework : 
 
 
@@ -12,15 +16,7 @@ Ce projet est une application de détection d'émotion qui utilise un modèle de
 
 |      numpy      |     opencv      |      keras      |   tensorflow  |
 | --------------- | --------------- | --------------- |---------------
-| ![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/8c4b8cfe-befb-42c5-9a5d-61529b6a2d5a) |
-   
-|     
-|    
-
-
-
-
-
+| ![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/8c4b8cfe-befb-42c5-9a5d-61529b6a2d5a) | ![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/2823c873-cf47-486c-9974-d1eaf6d1e7d2) | ![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/7b4f939f-53bc-4fc0-a303-e67932d1a652) | ![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/531c3f8a-60a5-4e00-b276-ceb31fb2784c)
 
 
 ## Modèle CNN
@@ -29,13 +25,11 @@ Le modèle CNN a été entraîné pour reconnaître diverses émotions en utilis
 ![image](https://github.com/Muthuvel15/Projet-IA-Machine-Learning/assets/60102777/5e82c06f-ab2a-46d4-8ca4-bed60f0a8748)
 
 
-
 ## Utilisation d'OpenCV
 OpenCV est utilisé pour le traitement d'image préalable, y compris la conversion des images en niveaux de gris et la détection des visages avant de les passer au modèle de classification des émotions.
 
 ## Fonctionnalités Supplémentaires
 L'application offre également la possibilité de détecter les émotions en temps réel via une webcam, en utilisant le même modèle de CNN.
-
 
 
 #### Projet de Détection des Émotions
