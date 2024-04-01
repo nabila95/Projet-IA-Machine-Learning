@@ -9,4 +9,4 @@ tensorflow==2.8.0
 keras==2.8.0
 opencv-python-headless==4.5.5.62
 numpy==1.22.3
-Pillow==8.4.0
+Pillow==10.3.0
