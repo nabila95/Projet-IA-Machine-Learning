@@ -10,3 +10,4 @@ keras==2.8.0
 opencv-python-headless==4.5.5.62
 numpy==1.22.3
 Pillow==8.4.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
