@@ -4,9 +4,16 @@ pandas==1.4.2
 seaborn==0.11.2
 keras==2.8.0
 tensorflow==2.8.0  # Keras is now integrated into TensorFlow 2.x
-streamlit==1.8.0
+streamlit==1.37.0
 tensorflow==2.8.0
 keras==2.8.0
-opencv-python-headless==4.5.5.62
+opencv-python-headless==4.8.1.78
 numpy==1.22.3
-Pillow==8.4.0
+Pillow==10.3.0
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
